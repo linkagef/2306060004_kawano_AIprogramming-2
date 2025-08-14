@@ -14,3 +14,15 @@
 ![Static Badge](https://img.shields.io/badge/Streamlit-%23E34F26?style=for-the-badge&logo=streamlit&logoColor=white&logoSize=auto)
 
 外部API: PokéAPI
+
+<br>
+<br>
+<br>
+
+# 開発
+### システム設計図
+<img width="621" height="374" alt="Image" src="https://github.com/user-attachments/assets/374e6791-8d7a-4770-a140-1ae84d49a63b" />
+
+##
+### コード説明図
+<img width="713" height="418" alt="Image" src="https://github.com/user-attachments/assets/1437e641-d6c5-44b5-8acc-0cc819b2eab3" />
