@@ -30,3 +30,4 @@
 ### コード説明図
 <img width="713" height="418" alt="Image" src="https://github.com/user-attachments/assets/1437e641-d6c5-44b5-8acc-0cc819b2eab3" />
 
+## [夏休み課題の改善案](https://github.com/linkagef/2306060004_kawano_AIprogramming-2/edit/main/improvement.md)
